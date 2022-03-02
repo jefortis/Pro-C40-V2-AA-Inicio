@@ -1,2 +1,2 @@
-# Pro-C40-V2-AA-Inicio
-Pro C40 V2 AA Inicio Autos
+# C40_Actividad de la maestra_Código boilerplate
+Actividad de la maestra
